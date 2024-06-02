@@ -1,0 +1,7 @@
+openai
+chromadb
+streamlit
+langchain
+unstructured
+unstructured[pdf]
+sentence-transformers
